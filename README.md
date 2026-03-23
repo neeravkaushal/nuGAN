@@ -4,6 +4,8 @@
 
 This is a **PyTorch implementation of νGAN, a conditional Wasserstein GAN (WGAN-GP)** designed to generate 2D cosmological maps conditioned on neutrino masses. The training pipeline supports spectral loss regularization, gradient penalty, multi-GPU training, and flexible optimization schedules.
 
+Use νGAN for inference in our interactive website: https://kaushallab.mtu.edu/nugan. Any new features you'd like to have are welcome.
+
 ![Generated cosmological maps](plots/processed_for_paper/sample_maps.png)
 
 
